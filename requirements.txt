@@ -1,0 +1,5 @@
+gradio
+ultralytics
+opencv-python
+pyttsx3
+numpy<2.0
